@@ -1,0 +1,9 @@
+C:\Users\pikap\source\repos\Dinner_2\Dinner_2\bin\Debug\Dinner_2.exe.config
+C:\Users\pikap\source\repos\Dinner_2\Dinner_2\bin\Debug\Dinner_2.exe
+C:\Users\pikap\source\repos\Dinner_2\Dinner_2\bin\Debug\Dinner_2.pdb
+C:\Users\pikap\source\repos\Dinner_2\Dinner_2\obj\Debug\Dinner_2.csprojAssemblyReference.cache
+C:\Users\pikap\source\repos\Dinner_2\Dinner_2\obj\Debug\Dinner_2.DinnerViewer.resources
+C:\Users\pikap\source\repos\Dinner_2\Dinner_2\obj\Debug\Dinner_2.csproj.GenerateResource.cache
+C:\Users\pikap\source\repos\Dinner_2\Dinner_2\obj\Debug\Dinner_2.csproj.CoreCompileInputs.cache
+C:\Users\pikap\source\repos\Dinner_2\Dinner_2\obj\Debug\Dinner_2.exe
+C:\Users\pikap\source\repos\Dinner_2\Dinner_2\obj\Debug\Dinner_2.pdb
